@@ -1,4 +1,3 @@
-# OlaMundo
 # Olá, Mundo!
  meu primeiro repositorio local
 
